@@ -2,6 +2,11 @@ PHP-EndNote
 ===========
 Simple PHP library for reading and writing EndNote XML files.
 
+**NOTE:** This library has now been incorporated into the [RefLib](https://github.com/hash-bang/RefLib) project.
+
+This GitHub page is maintained so dependencies don't break.
+
+
 Example: Read in EndNote XML
 ----------------------------
 
